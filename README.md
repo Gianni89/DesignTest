@@ -17,6 +17,8 @@ Inlcuded in this folder are three files that comprise my design test for Mediato
 
 ### Design Presentation.pptx
 
+[**Click to download**](https://github.com/Gianni89/DesignTest/blob/master/Heavenstrike%20Rivals%20-%20Feature%20Design/Design%20Presentation.pptx?raw=true)
+
 This powerpoint presentation is a complete overview of the feature design with visual flow, suitable for presenting the feature to team members or other interested parties. The presentation includes animation and **should be viewed in powerpoint as a slide show**. If not viewed as a slide show, several slides will lose their context, or hide important information.
 
 If you do not have PowerPoint available, free software [PowerPoint Viewer](http://filehippo.com/download_powerpoint/download/b091063e0658609d3c5f0b8883a9139d/) is available that will allow you to view the document properly.
@@ -26,6 +28,8 @@ If opening the document in PowerPoint, navigate to the Slide Show tab -> From Be
 If opening the document in PowerPoint Viewer, in the bottom right corner click Menu Icon -> Full Screen; Arrow keys or mouse click will progress through the presentation.
 
 ### Feature Prototype.xlsm
+
+[**Click to download**](https://github.com/Gianni89/DesignTest/blob/master/Heavenstrike%20Rivals%20-%20Feature%20Design/Feature%20Prototype.xlsm?raw=true)
 
 This spreadsheet is a macro enabled excel file and macro functionality will need to be enabled for the spreadsheet to function correctly. If macros are not enabled, you will be prompted to enable them.
 
