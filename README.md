@@ -37,4 +37,6 @@ The spreadsheet will be best understood after first having viewed the Design Pre
 
 ### Design Documentation.md
 
+[**Click to view**](Heavenstrike%20Rivals%20-%20Feature%20Design/Design%20Documentation.md)
+
 This markdown file is a simply formated overview of the feature design, suitable for quick reference during feature implementation, or to be uploaded to an internal wiki or version control platform. The file is natively formatted as markdown for github, but can be easily converted to alternative styles using pandoc.
